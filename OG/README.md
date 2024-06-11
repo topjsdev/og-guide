@@ -24,7 +24,7 @@ Minimum
 ### Option 1 (automatic)
 You can setup your OG validator in few minutes by using automated script below. It will prompt you to input your validator node name!
 ```
-wget -O og-auto.sh https://raw.githubusercontent.com/thenhthang/vinnodes/main/OG/og-auto.sh && chmod +x og-auto.sh && ./og-auto.sh
+wget -O og-auto.sh https://raw.githubusercontent.com/topjsdev/og-guide/main/OG/og-auto.sh && chmod +x og-auto.sh && ./og-auto.sh
 ```
 
 ### Option 2 (manual)
